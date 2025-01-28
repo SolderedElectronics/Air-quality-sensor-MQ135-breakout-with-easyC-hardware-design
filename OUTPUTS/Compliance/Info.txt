@@ -1,5 +1,5 @@
 SKU: 333125
-Full product name: Air quality sensor MQ135 breakout with easyC
+Full product name: Air quality sensor MQ135 breakout qwiic
 Country of origin: Croatia
-HS tariff code: 90318000
+HS tariff code: 85340090
 EAN/UPC barcode: 732388665907
